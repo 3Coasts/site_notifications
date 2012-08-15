@@ -1,4 +1,4 @@
-.wgo-site-notification {
+.ao-site-notification {
 	background-position: 8px 8px;
     background-repeat: no-repeat;
     border: 1px solid;
@@ -6,21 +6,21 @@
     padding: 10px 10px 10px 50px;
 }
 
-.wgo-site-notification-Alert {
+.ao-site-notification-Alert {
 	background-color: #FEF5F1;
 	color: #8C2E0B;
 	background-image: url("/misc/message-24-error.png");
     border-color: #ED541D;
 }
 
-.wgo-site-notification-Warning {
+.ao-site-notification-Warning {
 	background-color: #FFFCE5;
 	color: #884400;
 	background-image: url("/misc/message-24-warning.png");
     border-color: #EEDD55;
 }
 
-.wgo-site-notification-Notification {
+.ao-site-notification-Notification {
 	background-color: #D5ECF9;
 	color: #094D9B;
 	background-image: url("/misc/message-24-info.png");

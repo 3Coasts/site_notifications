@@ -111,9 +111,9 @@ function site_notifications_views_default_views() {
   $handler->display->display_options['fields']['nothing']['table'] = 'views';
   $handler->display->display_options['fields']['nothing']['field'] = 'nothing';
   $handler->display->display_options['fields']['nothing']['label'] = '';
-  $handler->display->display_options['fields']['nothing']['alter']['text'] = '<div class="wgo-site-notification wgo-site-notification-[field_notification_type]">
-<h2 class="wgo-site-notification-title">[title]</h2>
-<p class="wgo-site-notification-body">[body]</p>
+  $handler->display->display_options['fields']['nothing']['alter']['text'] = '<div class="ao-site-notification ao-site-notification-[field_notification_type]">
+<h2 class="ao-site-notification-title">[title]</h2>
+<p class="ao-site-notification-body">[body]</p>
 </div>';
   $handler->display->display_options['fields']['nothing']['alter']['make_link'] = 0;
   $handler->display->display_options['fields']['nothing']['alter']['absolute'] = 0;
