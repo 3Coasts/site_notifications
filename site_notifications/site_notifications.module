@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Site Notifications feature.
+ */
+
+include_once 'site_notifications.features.inc';
