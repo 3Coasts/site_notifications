@@ -26,3 +26,4 @@ features[variable][] = node_options_site_notification
 features[variable][] = node_preview_site_notification
 features[variable][] = node_submitted_site_notification
 features[views_view][] = site_notifications
+stylesheets[all][] = site_notifications.css
