@@ -13,7 +13,7 @@ function site_notifications_user_default_roles() {
   // Exported role: Notification Editor.
   $roles['Notification Editor'] = array(
     'name' => 'Notification Editor',
-    'weight' => '3',
+    'weight' => 3,
   );
 
   return $roles;
